@@ -1,2 +1,2 @@
-# Attack_privacy_protection_scheme
-We use the three methods to launch the adversarial example based privacy protection schemes. The methods includes initial transformation of image data, adversarial training and the detection of the adversarial noise.
+# Towards Attack to the Adversarial Example Based Privacy Protection Scheme
+We use the three methods to launch the adversarial example based privacy protection schemes. The methods includes initial transformation of image data, adversarial training and the detection of the adversarial noise. Through our attack, we can give more information to the researchers to develop more robust defenses against the inference attack equipped with the advanced machine learning in the future. The datasets we use include two parts, the first one is the public dataset [MNIST](http://yann.lecun.com/exdb/mnist/)
