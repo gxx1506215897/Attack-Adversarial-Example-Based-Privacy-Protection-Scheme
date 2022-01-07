@@ -6,9 +6,11 @@ We mainly use the popular machine learn framwork pytorch (1.9.0) to establish th
 The code mainly include two parts, including MNIST and Att. For MNIST, the code is included in the folder "MNIST", for Att, the code is include in the folder "Att". We use all three different methods to attack for the dataset MNIST, and we use two methods to attack for Att, the one is adversarial training and the another is the detection method.
 ## Citation
 If you use this code or dataset, please cite following paper:
+```python
 @inproceedings{jia2018attriguard,
   title={{AttriGuard}: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning},
   author={Guangxu Xie},
   booktitle={Towards Attack to the Adversarial Example Based Privacy Protection Schemes},
   year={2021}
 }
+```
